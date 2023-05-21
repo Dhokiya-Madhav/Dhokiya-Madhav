@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhokiya-madhav&label=Profile%20views&color=0e75b6&style=flat" alt="dhokiya-madhav" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://dhokiya-madhav.github.io/Portfolio/](https://dhokiya-madhav.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://dhokiya-madhav.github.io/portfolio/](https://dhokiya-madhav.github.io/portfolio/)
 
 - 📫 How to reach me **madhavdhokiya7069@gmail.com**
 
