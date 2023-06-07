@@ -8,7 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/madhav dhokiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhav dhokiya" height="30" width="40" /></a>
-**madhavdhokiya7069@gmail.com**
+
+  [madhavdhokiya7069@gmail.com](mailto:madhavdhokiya7069@gmail.com)
   
 
 </p>
