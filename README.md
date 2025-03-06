@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Madhav Dhokiya</h1>
-<h3 align="center">Hi, I'm Madhav Dhokiya, a recent Computer Engineering grad from Dharmsinh Desai University. I recently completed an internship at Techholding, Ahmedabad. I'm passionate about technology and love exploring new tech and programming languages in my free time. Excited to continue learning and exploring in the field!</h3>
+<h3 align="center">Hi, I'm Madhav Dhokiya, a recent Computer Engineering graduate from Dharmsinh Desai University. I recently completed an internship at Techholding, Ahmedabad, and I’m currently working as a Frontend Developer at Untie It Technologies in Rajkot. I'm passionate about technology and love exploring new tech and programming languages in my free time. Excited to continue learning and growing in the field!</h3>
 
 - 📫 How to reach me **madhavdhokiya7069@gmail.com**
 
