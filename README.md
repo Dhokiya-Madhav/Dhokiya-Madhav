@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **madhavdhokiya7069@gmail.com**
 
-- [📄 Resume](https://drive.google.com/file/d/1iRFZiqkJ2kpqIIY2R_H0lS2VvSW--1ye/view?usp=sharing)
+- [📄 Resume](https://drive.google.com/file/d/1stkJuY6feyYp33JHkCwRtY8J-0ZD0Gj0/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
